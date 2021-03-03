@@ -1,0 +1,11 @@
+# Integer
+p 5.class
+p 0.class
+p -10.class
+
+# Float point
+p 5.5.class
+p 55.6.class
+p -43.5.class
+
+p 9999999999999999999999999999999999999989999999999999999999999999999999999999.class
